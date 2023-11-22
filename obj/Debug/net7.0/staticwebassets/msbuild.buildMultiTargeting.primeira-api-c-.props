@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\primeira-api-c-.props" />
+</Project>
